@@ -4,10 +4,10 @@ A beacon (device that contains temperarure, moisture, soil moisture and fire sen
 This beacon receives an availability message for each fire station.
 In case a fire station is available, the beacon transimts env. conditions every 15 mins, otherwise (fire station unavailability) it stops transmiting information.
 For this project we used:
- -2 arduino boards
- -2 RFM22 tranceivers
- -1 temperature sensor
- -1 moisture sensor
- -1 soil moisture sensor
- -1 fire sensor
-For the communation between the 2 nodes, we used the ALOHA protocol.
+ -2 arduino boards.
+ -2 RFM22 tranceivers.
+ -1 temperature sensor.
+ -1 moisture sensor.
+ -1 soil moisture sensor.
+ -1 fire sensor.
+For the communication between the 2 nodes, we used the ALOHA protocol.
